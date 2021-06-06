@@ -17,6 +17,9 @@ Se tiene el paquete util donde se encuentran 4 clases necesarias en el aplicativ
 * Node
 * Reader
 
+### Como ejecutarlo:
+
+Para ejecutarlo se debe ir a la ubicacion del proyecto, luego llamar el aplicativo de java y invocar la clase StandardDeviationApp.java y ahi llamar al metodo main. Este recibe el parametro con la ruta donde se encuentra el archivo que contiene el set de N numeros.
 
 ### Prerrequisitos
 
