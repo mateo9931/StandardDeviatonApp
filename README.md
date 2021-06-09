@@ -45,6 +45,10 @@ Fue ejecutado con version java 11
 ## Construcción 
 * [Maven](https://maven.apache.org/) - Dependencias de maven
 
+## Fecha
+
+* 05 Junio 2021
+
 ## Autores
 
 * **Mateo Quintero Acevedo** 
